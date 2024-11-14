@@ -1,4 +1,4 @@
-# 🔍 Advanced Speckle Data Analysis Workshop
+# 🔍 Jupyter Rising: Harnessing Notebooks for Speckle Data Mastery
 
 > Turn your model data into actionable insights! 🚀
 
